@@ -1,7 +1,7 @@
 basic:
-    name: 'Dooley Group'
+    name: 'Schinner and Sons'
     environments:
-        production: 'https://kiehn.com/'
+        production: 'https://wolff.com/'
         staging: ''
         development: ''
     breakpoints:
